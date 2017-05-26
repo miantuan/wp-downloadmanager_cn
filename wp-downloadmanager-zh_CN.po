@@ -1,0 +1,1291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-DownloadManager 1.40\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-13 04:13+0800\n"
+"PO-Revision-Date: 2008-12-13 04:13+0800\n"
+"Last-Translator: Lester Chan <lesterchan@gmail.com>\n"
+"Language-Team: minibird.net <minibird@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: download-add.php:38
+#: download-add.php:181
+#: wp-downloadmanager.php:51
+msgid "Add File"
+msgstr "添加文件"
+
+#: download-add.php:48
+#: download-manager.php:142
+#, php-format
+msgid "File Size Too Large. Maximum Size Is %s"
+msgstr "文件太大。最大限制是 %s"
+
+#: download-add.php:62
+#: download-add.php:66
+#: download-manager.php:156
+#: download-manager.php:160
+msgid "Error In Uploading File"
+msgstr "上传文件错误"
+
+#: download-add.php:96
+#, php-format
+msgid "Error In Adding File '%s (%s)'"
+msgstr "添加文件错误：'%s (%s)'"
+
+#: download-add.php:98
+#, php-format
+msgid "File '%s (%s)' Added Successfully"
+msgstr "文件'%s (%s)'添加成功"
+
+#: download-add.php:110
+msgid "Add A File"
+msgstr "添加一个文件"
+
+#: download-add.php:113
+#: download-manager.php:280
+#: download-manager.php:386
+msgid "File:"
+msgstr "文件："
+
+#: download-add.php:116
+#: download-manager.php:286
+msgid "Browse File:"
+msgstr "浏览文件："
+
+#: download-add.php:120
+#: download-manager.php:290
+#, php-format
+msgid "Please upload the file to '%s' directory first."
+msgstr "请先上传文件到 ‘%s’目录。"
+
+#: download-add.php:123
+#: download-manager.php:293
+msgid "Upload File:"
+msgstr "上传文件："
+
+#: download-add.php:124
+#: download-manager.php:294
+msgid "to"
+msgstr "到"
+
+#: download-add.php:128
+#: download-manager.php:298
+#, php-format
+msgid "Maximum file size is %s."
+msgstr "最大大小是%s。"
+
+#: download-add.php:131
+#: download-manager.php:301
+msgid "Remote File:"
+msgstr "远程文件："
+
+#: download-add.php:133
+#: download-manager.php:303
+msgid "Please include http:// or ftp:// in front."
+msgstr "请在前面包含http:// 或 ftp://"
+
+#: download-add.php:137
+#: download-manager.php:307
+#: download-manager.php:390
+msgid "File Name:"
+msgstr "文件名称："
+
+#: download-add.php:141
+#: download-manager.php:311
+#: download-manager.php:394
+msgid "File Description:"
+msgstr "文件介绍："
+
+#: download-add.php:145
+#: download-manager.php:315
+#: download-manager.php:398
+msgid "File Category:"
+msgstr "文件类别："
+
+#: download-add.php:159
+#: download-manager.php:333
+#: download-manager.php:402
+msgid "File Size:"
+msgstr "文件大小："
+
+#: download-add.php:160
+#: download-manager.php:334
+#: wp-downloadmanager.php:287
+msgid "bytes"
+msgstr ""
+
+#: download-add.php:160
+msgid "Leave blank for auto detection. Auto detection sometimes will not work for Remote File."
+msgstr ""
+
+#: download-add.php:163
+#: download-manager.php:341
+msgid "File Date:"
+msgstr "文件日期："
+
+#: download-add.php:167
+msgid "Starting File Hits:"
+msgstr "文件点击："
+
+#: download-add.php:171
+#: download-manager.php:353
+#: download-manager.php:422
+msgid "Allowed To Download:"
+msgstr "允许下载："
+
+#: download-add.php:174
+#: download-manager.php:356
+#: download-manager.php:426
+#: download-manager.php:523
+msgid "Hidden"
+msgstr ""
+
+#: download-add.php:175
+#: download-manager.php:357
+#: download-manager.php:428
+#: download-manager.php:525
+msgid "Everyone"
+msgstr "所有人"
+
+#: download-add.php:176
+#: download-manager.php:358
+#: download-manager.php:430
+msgid "Registered Users Only"
+msgstr "只有注册用户"
+
+#: download-add.php:181
+#: download-manager.php:363
+#: download-manager.php:441
+msgid "Cancel"
+msgstr "取消"
+
+#: download-manager.php:58
+#: download-manager.php:620
+#: download-options.php:159
+msgid "File ID"
+msgstr "文件ID"
+
+#: download-manager.php:62
+#: download-manager.php:496
+#: download-manager.php:621
+#: download-options.php:160
+msgid "File"
+msgstr "文件"
+
+#: download-manager.php:66
+#: download-manager.php:626
+#: download-options.php:162
+msgid "File Size"
+msgstr "文件大小"
+
+#: download-manager.php:70
+#: download-manager.php:627
+msgid "File Category"
+msgstr "文件类别"
+
+#: download-manager.php:74
+#: download-manager.php:406
+#: download-manager.php:628
+#: download-options.php:164
+msgid "File Hits"
+msgstr "文件点击"
+
+#: download-manager.php:78
+#: download-manager.php:629
+msgid "File Permission"
+msgstr "文件权限"
+
+#: download-manager.php:82
+#: download-manager.php:410
+#: download-manager.php:623
+#: download-options.php:163
+msgid "File Date"
+msgstr "文件日期"
+
+#: download-manager.php:86
+#: download-manager.php:624
+#, fuzzy
+msgid "File Updated Date"
+msgstr "文件日期"
+
+#: download-manager.php:90
+#: download-manager.php:625
+#, fuzzy
+msgid "File Last Downloaded Date"
+msgstr "最多下载模板"
+
+#: download-manager.php:95
+#: download-manager.php:622
+#: download-options.php:161
+msgid "File Name"
+msgstr "文件名称"
+
+#: download-manager.php:103
+#: download-manager.php:634
+#: download-options.php:173
+msgid "Descending"
+msgstr "降序"
+
+#: download-manager.php:108
+#: download-manager.php:633
+#: download-options.php:172
+msgid "Ascending"
+msgstr "升序"
+
+#: download-manager.php:117
+#: download-manager.php:363
+msgid "Edit File"
+msgstr "编辑文件"
+
+#: download-manager.php:205
+#, php-format
+msgid "Error In Editing File '%s (%s)'"
+msgstr "编辑文件'%s (%s)'时发生错误"
+
+#: download-manager.php:207
+#, php-format
+msgid "File '%s (%s)' Edited Successfully"
+msgstr "文件'%s (%s)'编辑成功"
+
+#: download-manager.php:211
+#: download-manager.php:441
+msgid "Delete File"
+msgstr "删除文件"
+
+#: download-manager.php:218
+#, php-format
+msgid "Error In Deleting File '%s (%s)' From Server"
+msgstr "从服务器上删除文件'%s (%s)'时发生错误"
+
+#: download-manager.php:220
+#, php-format
+msgid "File '%s (%s)' Deleted From Server Successfully"
+msgstr "从服务器上删除文件'%s (%s)'成功"
+
+#: download-manager.php:225
+#, php-format
+msgid "Error In Deleting File '%s (%s)'"
+msgstr "删除文件'%s (%s)'时发生错误"
+
+#: download-manager.php:227
+#, php-format
+msgid "File '%s (%s)' Deleted Successfully"
+msgstr "文件'%s (%s)'删除成功"
+
+#: download-manager.php:277
+msgid "Edit A File"
+msgstr "编辑一个文件"
+
+#: download-manager.php:283
+msgid "Current File:"
+msgstr "当前文件："
+
+#: download-manager.php:334
+msgid "Auto Detection Of File Size"
+msgstr ""
+
+#: download-manager.php:337
+msgid "File Hits:"
+msgstr "文件点击："
+
+#: download-manager.php:338
+#, fuzzy, php-format
+msgid "%s hit"
+msgid_plural "%s hits"
+msgstr[0] "点击"
+msgstr[1] "点击"
+
+#: download-manager.php:338
+msgid "Reset File Hits"
+msgstr "重置文件点击"
+
+#: download-manager.php:342
+msgid "Existing Timestamp:"
+msgstr "生成时间戳："
+
+#: download-manager.php:342
+msgid "Edit Timestamp"
+msgstr "编辑时间戳"
+
+#: download-manager.php:342
+msgid "Use Today's Date"
+msgstr "使用今天的日期"
+
+#: download-manager.php:345
+#: download-manager.php:414
+#, fuzzy
+msgid "File Updated Date:"
+msgstr "文件日期："
+
+#: download-manager.php:349
+#: download-manager.php:418
+#, fuzzy
+msgid "File Last Downloaded Date:"
+msgstr "最多下载模板"
+
+#: download-manager.php:382
+msgid "Delete A File"
+msgstr "删除一个文件"
+
+#: download-manager.php:407
+#: download-templates.php:121
+#: download-templates.php:124
+#: download-templates.php:127
+#: download-templates.php:130
+#: download-templates.php:136
+#: download-templates.php:139
+#: wp-downloadmanager.php:1230
+#: wp-downloadmanager.php:1231
+#: wp-downloadmanager.php:1232
+msgid "hits"
+msgstr "点击"
+
+#: download-manager.php:437
+msgid "Delete File From Server?"
+msgstr "从服务器上删除文件吗？"
+
+#: download-manager.php:452
+#: download-manager.php:453
+#: wp-downloadmanager.php:203
+#: wp-downloadmanager.php:269
+#: wp-downloadmanager.php:289
+msgid "unknown"
+msgstr "未知"
+
+#: download-manager.php:488
+#: wp-downloadmanager.php:50
+msgid "Manage Downloads"
+msgstr "管理下载"
+
+#: download-manager.php:489
+#: wp-downloadmanager.php:47
+msgid "Downloads"
+msgstr "下载"
+
+#: download-manager.php:490
+#, fuzzy, php-format
+msgid "Displaying <strong>%s</strong> To <strong>%s</strong> Of <strong>%s</strong> Files"
+msgstr "显示从第 <strong>%s</strong>到第<strong>%s</strong>个 ，总计 <strong>%s</strong> 个。"
+
+#: download-manager.php:491
+#, php-format
+msgid "Sorted By <strong>%s</strong> In <strong>%s</strong> Order"
+msgstr "以 <strong>%s</strong> 为依据按<strong>%s</strong> 排序"
+
+#: download-manager.php:495
+msgid "ID"
+msgstr "编号"
+
+#: download-manager.php:497
+msgid "Size"
+msgstr "大小"
+
+#: download-manager.php:498
+msgid "Hits"
+msgstr "点击"
+
+#: download-manager.php:499
+msgid "Permission"
+msgstr "权限"
+
+#: download-manager.php:500
+msgid "Category"
+msgstr "类别"
+
+#: download-manager.php:501
+#, fuzzy
+msgid "Date/Time Added"
+msgstr "添加时间"
+
+#: download-manager.php:502
+msgid "Action"
+msgstr "动作"
+
+#: download-manager.php:527
+msgid "Registered"
+msgstr "已注册"
+
+#: download-manager.php:537
+#, php-format
+msgid "Last Updated: %s, %s"
+msgstr ""
+
+#: download-manager.php:537
+#, fuzzy, php-format
+msgid "Last Downloaded: %s, %s"
+msgstr "最多下载"
+
+#: download-manager.php:543
+msgid "Edit"
+msgstr "编辑"
+
+#: download-manager.php:544
+msgid "Delete"
+msgstr "删除"
+
+#: download-manager.php:549
+msgid "No Files Found"
+msgstr "未发现文件"
+
+#: download-manager.php:563
+msgid "Previous Page"
+msgstr "前一页"
+
+#: download-manager.php:572
+msgid "Next Page"
+msgstr "后一页"
+
+#: download-manager.php:581
+msgid "Pages"
+msgstr "页"
+
+#: download-manager.php:584
+msgid "Go to First Page"
+msgstr "到第一页"
+
+#: download-manager.php:584
+msgid "First"
+msgstr "最先"
+
+#: download-manager.php:587
+#: download-manager.php:599
+msgid "Go to Page"
+msgstr "到页"
+
+#: download-manager.php:594
+msgid "Page"
+msgstr "页"
+
+#: download-manager.php:602
+msgid "Go to Last Page"
+msgstr "到最后页"
+
+#: download-manager.php:602
+msgid "Last"
+msgstr "最后"
+
+#: download-manager.php:618
+msgid "Sort Options:"
+msgstr "排序设置："
+
+#: download-manager.php:641
+#: download-manager.php:643
+msgid "Per Page"
+msgstr "每页"
+
+#: download-manager.php:648
+msgid "Sort"
+msgstr "排序"
+
+#: download-manager.php:658
+msgid "Download Stats"
+msgstr "下载状态"
+
+#: download-manager.php:662
+msgid "Total Files:"
+msgstr "文件数："
+
+#: download-manager.php:666
+msgid "Total Size:"
+msgstr "总大小："
+
+#: download-manager.php:670
+msgid "Total Hits:"
+msgstr "总点击："
+
+#: download-manager.php:674
+msgid "Total Bandwidth:"
+msgstr "总带宽："
+
+#: download-options.php:62
+msgid "Download Path"
+msgstr "下载路径"
+
+#: download-options.php:63
+msgid "Download Path URL"
+msgstr "下载路径URL"
+
+#: download-options.php:64
+msgid "Download Page URL"
+msgstr "下载页面URL"
+
+#: download-options.php:65
+#, fuzzy
+msgid "Download Nice Permalink"
+msgstr "下载序列"
+
+#: download-options.php:66
+msgid "Download Method"
+msgstr "下载方式"
+
+#: download-options.php:67
+msgid "Download Categories"
+msgstr "下载类类别"
+
+#: download-options.php:68
+msgid "Download Sorting"
+msgstr "下载序列"
+
+#: download-options.php:73
+#: download-templates.php:78
+msgid "Updated"
+msgstr "已更新"
+
+#: download-options.php:78
+#: download-templates.php:83
+msgid "No Download Option Updated"
+msgstr "下载设置没有更新"
+
+#: download-options.php:105
+#: download-options.php:106
+#: wp-downloadmanager.php:52
+msgid "Download Options"
+msgstr "下载设置"
+
+#: download-options.php:109
+msgid "Download Path:"
+msgstr "下载路径："
+
+#: download-options.php:110
+msgid "The absolute path to the directory where all the files are stored (without trailing slash)."
+msgstr "所有文件存储目录的绝对路径（尾部不要带斜线）。"
+
+#: download-options.php:113
+msgid "Download Path URL:"
+msgstr "下载路径URL："
+
+#: download-options.php:114
+msgid "The url to the directory where all the files are stored (without trailing slash)."
+msgstr "所有文件存储目录的URL（尾部不要带斜线）。"
+
+#: download-options.php:117
+msgid "Download Page URL:"
+msgstr "下载页面URL："
+
+#: download-options.php:118
+msgid "The url to the downloads page (without trailing slash)."
+msgstr "下载页面的URL（尾部不要带斜线）。"
+
+#: download-options.php:121
+#, fuzzy
+msgid "Download Nice Permalink:"
+msgstr "下载列表："
+
+#: download-options.php:123
+#: download-uninstall.php:145
+#: wp-downloadmanager-widget.php:110
+#: wp-downloadmanager-widget.php:151
+msgid "Yes"
+msgstr "是的"
+
+#: download-options.php:125
+#: wp-downloadmanager-widget.php:105
+#: wp-downloadmanager-widget.php:146
+#, fuzzy
+msgid "No"
+msgstr "没有"
+
+#: download-options.php:127
+#, fuzzy
+msgid "Change it to <strong>No</strong> when you encounter 404 error."
+msgstr "当大文件出现问题时，改为<strong>重定向文件</strong>。"
+
+#: download-options.php:131
+msgid "Download Method:"
+msgstr "下载方式："
+
+#: download-options.php:134
+msgid "Output File"
+msgstr "输出文件"
+
+#: download-options.php:135
+msgid "Redirect To File"
+msgstr "重定向文件"
+
+#: download-options.php:137
+msgid "Change it to <strong>Redirect To File</strong> when you have problem with large files."
+msgstr "当大文件出现问题时，改为<strong>重定向文件</strong>。"
+
+#: download-options.php:142
+msgid "Download Categories:"
+msgstr "下载类别："
+
+#: download-options.php:143
+msgid "Start each entry on a new line."
+msgstr "另起一行开始每项内容。"
+
+#: download-options.php:144
+msgid "The <strong>first line</strong> will have a category id of <strong>1</strong>."
+msgstr " <strong>第1行</strong> 类别编号为<strong>1</strong>。"
+
+#: download-options.php:145
+msgid "The <strong>2nd line</strong> will have a category id of <strong>2</strong>."
+msgstr " <strong>第2行</strong> 类别编号为<strong>2</strong>。"
+
+#: download-options.php:146
+msgid "And so on and so forth."
+msgstr "以此类推。"
+
+#: download-options.php:153
+msgid "Download Listing Options"
+msgstr "下载列表配置"
+
+#: download-options.php:156
+msgid "Sort Downloads By:"
+msgstr "下载归类依据："
+
+#: download-options.php:169
+msgid "Sort Order Of Downloads:"
+msgstr "下载归类排序："
+
+#: download-options.php:178
+msgid "No. Of Downloads Per Page:"
+msgstr "每页下载数量："
+
+#: download-options.php:182
+msgid "Group By:"
+msgstr "分组依据："
+
+#: download-options.php:185
+msgid "None"
+msgstr "没有"
+
+#: download-options.php:186
+msgid "Categories"
+msgstr "类别"
+
+#: download-options.php:192
+#: download-templates.php:526
+msgid "Save Changes"
+msgstr ""
+
+#: download-templates.php:63
+#, fuzzy
+msgid "Download Page Header Template"
+msgstr "下载类别顶部模板"
+
+#: download-templates.php:64
+#, fuzzy
+msgid "Download Page Footer Template"
+msgstr "下载类别底部模板"
+
+#: download-templates.php:65
+#, fuzzy
+msgid "Download Page Paging Header Template"
+msgstr "下载类别顶部模板"
+
+#: download-templates.php:66
+#, fuzzy
+msgid "Download Page Paging Footer Template"
+msgstr "下载类别底部模板"
+
+#: download-templates.php:67
+#, fuzzy
+msgid "No Files Found Template"
+msgstr "未发现文件"
+
+#: download-templates.php:68
+msgid "Download Category Header Template"
+msgstr "下载类别顶部模板"
+
+#: download-templates.php:69
+msgid "Download Category Footer Template"
+msgstr "下载类别底部模板"
+
+#: download-templates.php:70
+msgid "Download Listing Template"
+msgstr "下载列表木板"
+
+#: download-templates.php:71
+msgid "Download Embedded Template"
+msgstr "下载附件模板"
+
+#: download-templates.php:72
+#: download-templates.php:453
+#, fuzzy
+msgid "Download Page Link Template"
+msgstr "下载页面模板。"
+
+#: download-templates.php:73
+msgid "Most Downloaded Template"
+msgstr "最多下载模板"
+
+#: download-templates.php:100
+#: wp-downloadmanager.php:1226
+msgid "There are <strong>%TOTAL_FILES_COUNT% files</strong>, weighing <strong>%TOTAL_SIZE%</strong> with <strong>%TOTAL_HITS% hits</strong> in <strong>%FILE_CATEGORY_NAME%</strong>.</p><p>Displaying <strong>%RECORD_START%</strong> to <strong>%RECORD_END%</strong> of <strong>%TOTAL_FILES_COUNT%</strong> files."
+msgstr "分类<strong>%FILE_CATEGORY_NAME%</strong>中总共有 <strong>%TOTAL_FILES_COUNT% 个文件</strong>, 总容量 <strong>%TOTAL_SIZE%</strong> ，共点击 <strong>%TOTAL_HITS% 次</strong>。</p><p>在 <strong>%TOTAL_FILES_COUNT%</strong>个文件中从 <strong>%RECORD_START%</strong>到 <strong>%RECORD_END%</strong>进行 显示。"
+
+#: download-templates.php:103
+#: wp-downloadmanager.php:1227
+msgid "Search"
+msgstr ""
+
+#: download-templates.php:112
+#: wp-downloadmanager.php:1245
+#, fuzzy
+msgid "No Files Found."
+msgstr "未发现文件"
+
+#: download-templates.php:115
+#: wp-downloadmanager.php:1228
+msgid "View all downloads in %FILE_CATEGORY_NAME%"
+msgstr "查看%FILE_CATEGORY_NAME%中的所有下载"
+
+#: download-templates.php:124
+#: download-templates.php:130
+#: download-templates.php:136
+#: download-templates.php:139
+#: wp-downloadmanager.php:1231
+#: wp-downloadmanager.php:1232
+msgid ","
+msgstr ""
+
+#: download-templates.php:127
+#: download-templates.php:130
+#: download-templates.php:139
+#: wp-downloadmanager.php:213
+#: wp-downloadmanager.php:1230
+#: wp-downloadmanager.php:1231
+#: wp-downloadmanager.php:1232
+msgid "You need to be a registered user to download this file."
+msgstr "您必须注册才能下载此文件。"
+
+#: download-templates.php:133
+#: wp-downloadmanager.php:1244
+#, fuzzy
+msgid "Downloads Page"
+msgstr "下载页面URL"
+
+#: download-templates.php:148
+#: wp-downloadmanager.php:53
+msgid "Download Templates"
+msgstr "下载模板"
+
+#: download-templates.php:150
+msgid "Template Variables"
+msgstr "模板变量"
+
+#: download-templates.php:155
+msgid "Display the file's ID."
+msgstr "显示文件编号。"
+
+#: download-templates.php:159
+msgid "Display the file's filename."
+msgstr "显示文件名"
+
+#: download-templates.php:163
+msgid "Display the total number of files in the category."
+msgstr "显示此类别中的文件总数。"
+
+#: download-templates.php:167
+msgid "Display the total number of files."
+msgstr "显示文件总数。"
+
+#: download-templates.php:171
+msgid "Display the start number of the record."
+msgstr "显示记录的开始序号。"
+
+#: download-templates.php:177
+msgid "Display the file's name."
+msgstr "显示文件名。"
+
+#: download-templates.php:181
+msgid "Display the file's description."
+msgstr "显示文件描述。"
+
+#: download-templates.php:185
+msgid "Display the total number of file hits in the category."
+msgstr "显示此类别的总点击数。"
+
+#: download-templates.php:189
+msgid "Displays the total file hits."
+msgstr "显示总点击数。"
+
+#: download-templates.php:193
+msgid "Display the end number of the record."
+msgstr "显示此记录的结束序号。"
+
+#: download-templates.php:199
+msgid "Display the file's size in bytes/KB/MB/GB/TB."
+msgstr "以bytes/KB/MB/GB/TB为单位显示文件大小。"
+
+#: download-templates.php:203
+msgid "Display the files's category name."
+msgstr "显示文件的类别名。"
+
+#: download-templates.php:207
+msgid "Display the total size of all the files in the category."
+msgstr "显示此类别中的总文件大小。"
+
+#: download-templates.php:211
+msgid "Display the total file size."
+msgstr "显示总文件大小。"
+
+#: download-templates.php:215
+msgid "Display the number of times the file has been downloaded."
+msgstr "显示此文件被下载的次数。"
+
+#: download-templates.php:221
+msgid "Displays the file's date."
+msgstr "显示此文件的日期。"
+
+#: download-templates.php:225
+msgid "Displays the file's time."
+msgstr "显示此文件的时间。"
+
+#: download-templates.php:229
+msgid "Displays the url to the category."
+msgstr "显示此类别的URL。"
+
+#: download-templates.php:233
+msgid "Displays the file's download url."
+msgstr "显示此文件的的下载URL。"
+
+#: download-templates.php:237
+#, fuzzy
+msgid "Display the category ID."
+msgstr "显示文件的类别名。"
+
+#: download-templates.php:243
+#, fuzzy
+msgid "Displays the file's extension icon."
+msgstr "显示文件描述。"
+
+#: download-templates.php:247
+#, fuzzy
+msgid "Displays the URL to the download page."
+msgstr "显示此文件的的下载URL。"
+
+#: download-templates.php:251
+#, fuzzy
+msgid "Displays the file's last updated date."
+msgstr "显示此文件的日期。"
+
+#: download-templates.php:255
+#, fuzzy
+msgid "Displays the file's last updated time."
+msgstr "显示此文件的日期。"
+
+#: download-templates.php:259
+#, fuzzy
+msgid "Displays the file search key word."
+msgstr "显示此文件的日期。"
+
+#: download-templates.php:263
+msgid "Download Page Templates"
+msgstr "下载页面模板。"
+
+#: download-templates.php:267
+msgid "Download Page Header:"
+msgstr "下载页面顶部："
+
+#: download-templates.php:268
+#: download-templates.php:285
+#: download-templates.php:300
+#: download-templates.php:309
+#: download-templates.php:321
+#: download-templates.php:333
+#: download-templates.php:347
+#: download-templates.php:365
+#: download-templates.php:387
+#: download-templates.php:412
+#: download-templates.php:434
+#: download-templates.php:458
+#: download-templates.php:476
+#: download-templates.php:506
+msgid "Allowed Variables:"
+msgstr "允许的变量："
+
+#: download-templates.php:278
+#: download-templates.php:293
+#: download-templates.php:302
+#: download-templates.php:311
+#: download-templates.php:323
+#: download-templates.php:340
+#: download-templates.php:354
+#: download-templates.php:379
+#: download-templates.php:401
+#: download-templates.php:426
+#: download-templates.php:448
+#: download-templates.php:460
+#: download-templates.php:490
+#: download-templates.php:520
+msgid "Restore Default Template"
+msgstr "恢复默认模板"
+
+#: download-templates.php:284
+msgid "Download Page Footer:"
+msgstr "下载页面底部："
+
+#: download-templates.php:299
+#, fuzzy
+msgid "Download Page Paging Header:"
+msgstr "下载页面顶部："
+
+#: download-templates.php:308
+#, fuzzy
+msgid "Download Page Paging Footer:"
+msgstr "下载页面底部："
+
+#: download-templates.php:316
+#, fuzzy
+msgid "No Files Found Templates"
+msgstr "未发现文件"
+
+#: download-templates.php:320
+#, fuzzy
+msgid "No Files Found:"
+msgstr "未发现文件"
+
+#: download-templates.php:328
+msgid "Download Category Templates"
+msgstr "下载类别模板"
+
+#: download-templates.php:332
+msgid "Download Category Header:"
+msgstr "下载类别顶部："
+
+#: download-templates.php:346
+msgid "Download Category Footer:"
+msgstr "下载类别底部："
+
+#: download-templates.php:359
+msgid "Download Templates (With Permission)"
+msgstr "下载模板（有权限时）"
+
+#: download-templates.php:363
+#: download-templates.php:410
+msgid "Download Listing:"
+msgstr "下载列表："
+
+#: download-templates.php:364
+msgid "Displayed when listing files in the downloads page and users have permission to download the file."
+msgstr "当在下载页面中列出且用户有权限下载此文件时显示。"
+
+#: download-templates.php:385
+#: download-templates.php:432
+msgid "Download Embedded File"
+msgstr "下载附件文件"
+
+#: download-templates.php:386
+msgid "Displayed when you embedded a file within a post or a page and users have permission to download the file."
+msgstr "当在一篇文章或页面中有附件且用户有权限下载此文件时显示。"
+
+#: download-templates.php:406
+msgid "Download Templates (Without Permission)"
+msgstr "下载模板（无权限时）"
+
+#: download-templates.php:411
+msgid "Displayed when listing files in the downloads page and users <strong>DO NOT</strong> have permission to download the file."
+msgstr "当在下载页面中列出且用户<strong>没有权限</strong>下载此文件时显示。"
+
+#: download-templates.php:433
+msgid "Displayed when you embedded a file within a post or a page and users <strong>DO NOT</strong> have permission to download the file."
+msgstr "当在一篇文章或页面中有附件且用户<strong>没有权限</strong>下载此文件时显示。"
+
+#: download-templates.php:457
+msgid "This template is used to style the link to the Download Page, if you choose to display the Download Page Link in the Most Downloaded and Recent Downloads widget."
+msgstr ""
+
+#: download-templates.php:465
+msgid "Download Stats Templates (With Permission)"
+msgstr "下载状态模板（有权限时）"
+
+#: download-templates.php:469
+#: download-templates.php:499
+#: wp-downloadmanager-widget.php:79
+msgid "Most Downloaded"
+msgstr "最多下载"
+
+#: download-templates.php:470
+#: download-templates.php:500
+msgid "Displayed when listing most downloaded files."
+msgstr "当列出最多下载的文件时显示。"
+
+#: download-templates.php:471
+#: download-templates.php:501
+#: wp-downloadmanager-widget.php:120
+msgid "Recent Downloads"
+msgstr "最近下载"
+
+#: download-templates.php:472
+#: download-templates.php:502
+#, fuzzy
+msgid "Displayed when listing recent downloads."
+msgstr "当列出最新下载的文件时显示"
+
+#: download-templates.php:473
+#: download-templates.php:503
+msgid "Downloads By Category"
+msgstr "按类别下载"
+
+#: download-templates.php:474
+#: download-templates.php:504
+msgid "Displayed when listing downloads by category."
+msgstr "当按类别列出下载时显示。"
+
+#: download-templates.php:475
+msgid "Displayed when users have permission to download the file."
+msgstr "当用户有权限下载此文件时显示。"
+
+#: download-templates.php:495
+msgid "Download Stats Templates (Without Permission)"
+msgstr "下载状态模板（无权限时）"
+
+#: download-templates.php:505
+msgid "Displayed when users <strong>DO NOT</strong> have permission to download the file."
+msgstr "当用户<strong>没有权限</strong>下载此文件时显示。"
+
+#: download-uninstall.php:40
+#: download-uninstall.php:146
+msgid "UNINSTALL WP-DownloadManager"
+msgstr "卸载插件"
+
+#: download-uninstall.php:47
+#, php-format
+msgid "Table '%s' has been deleted."
+msgstr "表'%s' 已经被删除。"
+
+#: download-uninstall.php:56
+#, php-format
+msgid "Setting Key '%s' has been deleted."
+msgstr "设置Key '%s' 已经被删除。"
+
+#: download-uninstall.php:60
+#, php-format
+msgid "Error deleting Setting Key '%s'."
+msgstr "删除设置Key '%s' 时出现错误。"
+
+#: download-uninstall.php:66
+#: download-uninstall.php:105
+msgid "The download files uploaded by WP-DownloadManager <strong>WILL NOT</strong> be deleted. You will have to delete it manually."
+msgstr "WP-DownloadManager上传的文件将<strong>不会</strong>被删除，您需要手动删除它。"
+
+#: download-uninstall.php:68
+#: download-uninstall.php:106
+#, php-format
+msgid "The path to the downloads folder is <strong>'%s'</strong>."
+msgstr "下载目录的路径是<strong>'%s'</strong>。"
+
+#: download-uninstall.php:88
+#: download-uninstall.php:99
+#: wp-downloadmanager.php:54
+msgid "Uninstall WP-DownloadManager"
+msgstr "卸载插件"
+
+#: download-uninstall.php:89
+#, php-format
+msgid "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And WP-DownloadManager Will Be Deactivated Automatically."
+msgstr "<a href=\"%s\">点击</a>完成卸载， WP-DownloadManager 会自动被禁用。"
+
+#: download-uninstall.php:101
+msgid "Deactivating WP-DownloadManager plugin does not remove any data that may have been created, such as the download options and the download data. To completely remove this plugin, you can uninstall it here."
+msgstr "禁用WP-DownloadManager 插件不会删除任何已经创建的数据，例如下载设置和下载数据。要完全删除这个插件，您可以在这里卸载。"
+
+#: download-uninstall.php:104
+msgid "NOTE:"
+msgstr "<strong>注意</strong>"
+
+#: download-uninstall.php:109
+msgid "WARNING:"
+msgstr "<strong>警告</strong>"
+
+#: download-uninstall.php:110
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr "一旦卸载将无法恢复。您应该先用WordPress的数据库备份插件来备份所有数据。"
+
+#: download-uninstall.php:113
+msgid "The following WordPress Options/Tables will be DELETED:"
+msgstr "下列WordPress选项和数据表将别<strong>删除</strong>："
+
+#: download-uninstall.php:118
+msgid "WordPress Options"
+msgstr "WordPress 选项"
+
+#: download-uninstall.php:119
+msgid "WordPress Tables"
+msgstr "WordPress 数据表"
+
+#: download-uninstall.php:146
+msgid ""
+"You Are About To Uninstall WP-DownloadManager From WordPress.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr "您将要从WordPress中卸载WP-DownloadManager，这个操作不可逆转，选择[取消]则停止，选择[OK]执行卸载。"
+
+#: wp-downloadmanager-widget.php:89
+#: wp-downloadmanager-widget.php:130
+msgid "Title"
+msgstr "标题"
+
+#: wp-downloadmanager-widget.php:92
+#: wp-downloadmanager-widget.php:133
+msgid "Limit"
+msgstr "限制"
+
+#: wp-downloadmanager-widget.php:95
+#: wp-downloadmanager-widget.php:136
+msgid "Post Title Length (Characters)"
+msgstr "文章标题长度（字符数）"
+
+#: wp-downloadmanager-widget.php:97
+#: wp-downloadmanager-widget.php:138
+msgid "(<strong>0</strong> to disable)"
+msgstr "(<strong>0</strong> 个禁用)"
+
+#: wp-downloadmanager-widget.php:100
+#: wp-downloadmanager-widget.php:141
+msgid "Display Link To Download Page?"
+msgstr ""
+
+#: wp-downloadmanager.php:93
+msgid "Enter File ID (Separate Multiple IDs By A Comma)"
+msgstr ""
+
+#: wp-downloadmanager.php:102
+#: wp-downloadmanager.php:108
+msgid "Download"
+msgstr "下载"
+
+#: wp-downloadmanager.php:109
+msgid "Insert File Download"
+msgstr "插入文件下载"
+
+#: wp-downloadmanager.php:166
+msgid "Invalid File ID."
+msgstr "无效的文件编号。"
+
+#: wp-downloadmanager.php:175
+msgid "File does not exist."
+msgstr "文件不存在。"
+
+#: wp-downloadmanager.php:279
+msgid "TiB"
+msgstr ""
+
+#: wp-downloadmanager.php:281
+msgid "GiB"
+msgstr ""
+
+#: wp-downloadmanager.php:283
+msgid "MiB"
+msgstr ""
+
+#: wp-downloadmanager.php:285
+msgid "KiB"
+msgstr ""
+
+#: wp-downloadmanager.php:430
+msgid "Note: There is a file embedded within this post, please visit this post to download the file."
+msgstr "<strong>注意</strong>：这篇文章中有附件文件，请查看这篇文章来下载此文件。"
+
+#: wp-downloadmanager.php:446
+msgid "total"
+msgstr "总计"
+
+#: wp-downloadmanager.php:641
+#, php-format
+msgid "Page %s of %s"
+msgstr ""
+
+#: wp-downloadmanager.php:643
+msgid "&laquo; First"
+msgstr ""
+
+#: wp-downloadmanager.php:647
+msgid "&laquo;"
+msgstr ""
+
+#: wp-downloadmanager.php:657
+msgid "&raquo;"
+msgstr ""
+
+#: wp-downloadmanager.php:661
+msgid "Last &raquo;"
+msgstr ""
+
+#: wp-downloadmanager.php:972
+#: wp-downloadmanager.php:1022
+#: wp-downloadmanager.php:1073
+msgid "N/A"
+msgstr "N/A"
+
+#: wp-downloadmanager.php:1099
+#: wp-downloadmanager.php:1101
+#: wp-downloadmanager.php:1139
+msgid "WP-DownloadManager"
+msgstr "WP-DownloadManager"
+
+#: wp-downloadmanager.php:1112
+#: wp-downloadmanager.php:1114
+#: wp-downloadmanager.php:1155
+#, fuzzy, php-format
+msgid "%s Most Recent Download"
+msgid_plural "%s Most Recent Downloads"
+msgstr[0] "最新下载"
+msgstr[1] "最新下载"
+
+#: wp-downloadmanager.php:1125
+#: wp-downloadmanager.php:1127
+#: wp-downloadmanager.php:1169
+#, fuzzy, php-format
+msgid "%s Most Downloaded File"
+msgid_plural "%s Most Downloaded Files"
+msgstr[0] "最多下载"
+msgstr[1] "最多下载"
+
+#: wp-downloadmanager.php:1141
+#, fuzzy, php-format
+msgid "<strong>%s</strong> file was added."
+msgid_plural "<strong>%s</strong> files were added."
+msgstr[0] "(<strong>0</strong> 个禁用)"
+msgstr[1] "(<strong>0</strong> 个禁用)"
+
+#: wp-downloadmanager.php:1142
+#, fuzzy, php-format
+msgid "<strong>%s</strong> worth of files."
+msgid_plural "<strong>%s</strong> worth of files."
+msgstr[0] "(<strong>0</strong> 个禁用)"
+msgstr[1] "(<strong>0</strong> 个禁用)"
+
+#: wp-downloadmanager.php:1143
+#, fuzzy, php-format
+msgid "<strong>%s</strong> hit was generated."
+msgid_plural "<strong>%s</strong> hits were generated."
+msgstr[0] "(<strong>0</strong> 个禁用)"
+msgstr[1] "(<strong>0</strong> 个禁用)"
+
+#~ msgid "files were added."
+#~ msgstr "文件已添加。"
+#~ msgid "worth of files."
+#~ msgstr "文件数。"
+#~ msgid "hits were generated."
+#~ msgstr "点击已产生。"
+#~ msgid "Update Options"
+#~ msgstr "更新设置"
+#~ msgid "Download Page Header"
+#~ msgstr "下载页面顶部"
+#~ msgid "Download Page Footer"
+#~ msgstr "下载页面底部"
+#~ msgid "Download: %FILE_NAME%"
+#~ msgstr "下载： %FILE_NAME%"
+#~ msgid "Newest Downloads"
+#~ msgstr "最新下载"
+#~ msgid "Update Templates"
+#~ msgstr "更新模板"
+#~ msgid "Enter File ID"
+#~ msgstr "输入文件编号"
+#~ msgid "Error: File ID must be numeric"
+#~ msgstr "错误：文件编号必须是数字"
+#~ msgid "Please enter File ID again"
+#~ msgstr "请再次输入文件编号"
+
