@@ -1,5 +1,7 @@
 "# wp-downloadmanager_cn" 中文版
 
+2018-05-28日更细说明日志。
+
 本代码系统完全依据 wp-downloadmanager 基础上改写，请参考 https://github.com/lesterchan/wp-downloadmanager
 
 此次主要考虑中文文件名附件的问题，毕竟文件过多的话，服务器端查找比较麻烦。。。。
@@ -21,5 +23,5 @@
 
 除了中文文字的支持意外，没有对其他功能做任何改动。
 
-
+代码更新于一年以前，今日才更新说明，，，，太懒了。。。
 
