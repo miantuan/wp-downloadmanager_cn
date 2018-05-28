@@ -17,6 +17,7 @@
  
  
 欢迎使用，测试服务器环境为中文 windows server 2008 r2上的wordpress平台
+
 从系统道理上讲，这个版本应该放在linux系统的webserver上更好。因为linux对应的中文是gb2312编码，而windows实际是gbk编码。但是在windows系统下测试也没有问题。
 
 如果发现还有文字转换问题，请提意见。miantuan@163.com
